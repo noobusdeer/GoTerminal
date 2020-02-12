@@ -1,0 +1,3 @@
+[
+	{ "keys": ["F4"], "command": "go_terminal" }
+]
