@@ -6,3 +6,7 @@ _This is a Windows plugin for [fman](https://fman.io/), a dual pane file manager
 ## Usage
 
 Simply press F4 to open the directory you're in in a new WindowsTerminal window
+
+## Setup WindowsTerminal
+
+Set "startingDirectory" : "." in profiles.json
